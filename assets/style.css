@@ -2,10 +2,11 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
+    background-color: grey;
   }
   
   header {
-    background-color: #3498db;
+    background-color: red;
     color: #fff;
     text-align: center;
     padding: 10px;
@@ -31,7 +32,7 @@ body {
   button {
     padding: 5px 10px;
     background-color: #2ecc71;
-    color: #fff;
+    color: black;
     cursor: pointer;
   }
   
@@ -46,7 +47,7 @@ body {
   }
   
   #searchHistory {
-    background-color: #f1c40f;
+    background-color: green;
     padding: 10px;
   }
   

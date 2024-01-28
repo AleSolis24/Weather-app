@@ -1,5 +1,6 @@
 // My API key for the weather forecast
 const apiKey = 'a8089e21a6fd496d9f36245d3d6d5c5f';
+// apiURL to link the forcast and days
 const apiURL = 'https://api.openweathermap.org/data/2.5';
 
 let searchForm = document.getElementById('searchForm');
