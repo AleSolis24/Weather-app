@@ -39,7 +39,7 @@ body {
     background-color: #27ae60;
   }
   
-  #currentWeather, #forecast {
+  #todayWeather, #forecast {
     border: 1px solid #ccc;
     padding: 10px;
     margin-bottom: 20px;
